@@ -1,0 +1,12 @@
+[submodule "demos/jdg-cross-datacenter-replication"]
+	path = demos/jdg-cross-datacenter-replication
+	url = git@github.com:vbchin2/jdg-cross-datacenter-replication.git
+[submodule "demos/jdg-visualizer"]
+	path = demos/jdg-visualizer
+	url = git@github.com:vbchin2/visual.git
+[submodule "demos/hotrod-demo"]
+	path = demos/hotrod-demo
+	url = git@github.com:vbchin2/hotrod-demo.git
+[submodule "presentation"]
+	path = presentation
+	url = ssh://538ed6ae3b696eb65300001b@jdgworkshop-preso.itos.redhat.com/~/git/jdgworkshop.git
