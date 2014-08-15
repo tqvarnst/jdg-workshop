@@ -10,3 +10,6 @@
 [submodule "presentation"]
 	path = presentation
 	url = ssh://538ed6ae3b696eb65300001b@jdgworkshop-preso.itos.redhat.com/~/git/jdgworkshop.git
+[submodule "demos/jdg-as-cache"]
+	path = demos/jdg-as-cache
+	url = git@github.com:tqvarnst/jdg-modules-demo.git
